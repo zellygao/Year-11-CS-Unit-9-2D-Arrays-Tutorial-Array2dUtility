@@ -41,6 +41,11 @@ public class Array2dUtilityTest {
     }
 
     @org.junit.jupiter.api.Test
+    void average() {
+
+    }
+
+    @org.junit.jupiter.api.Test
     void minimum() {
         assertTrue(Array2dUtility.minimum(array2d) == -22);
         assertTrue(Array2dUtility.minimum(array2d2) == -29);
@@ -64,6 +69,19 @@ public class Array2dUtilityTest {
         assertTrue(Array2dUtility.evenCountEnhanced(array2d2) == 11);
     }
 
+    @org.junit.jupiter.api.Test
+    void allPositive() {
 
+    }
+
+    @org.junit.jupiter.api.Test
+    void rowSums() {
+
+    }
+
+    @org.junit.jupiter.api.Test
+    void colSums() {
+
+    }
 
 }
