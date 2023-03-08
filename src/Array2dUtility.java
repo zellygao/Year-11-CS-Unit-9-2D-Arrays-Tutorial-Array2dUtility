@@ -1,13 +1,15 @@
 public class Array2dUtility {
 
     // 1. print
-    // Implement a method called print that prints out the values of the 2D array of integers row by row.
+    // Implement a method called print that prints out the values of a 2D array of integers row by row.
 
     // 2. sum
     // Implement a method called sum that returns the sum of a 2D array of integers
 
     // 3. average
     // Implement a method called average that returns the average value of a 2D array of integers.
+    // You may assume that the 2D array is a square. That is, it has the same number of rows and columns.
+    // Reminder: call your sum method within the average method.
 
     // 4. minimum
     // Implement a method called minimum that returns the minimum value of a 2D array of integers.
